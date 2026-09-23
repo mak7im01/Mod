@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "version": "3.0.1",
+  "version": "3.0.0",
   "title": "Доступно обновление!",
   "message": "Вышла новая версия мода — рекомендуется обновиться для получения исправлений и новых функций.",
   "downloadUrl": "https://github.com/Vzlomhik2005/Yandex-Music-Mod/releases/download/v2.23.2/YandexMusicMod_Setup.exe",
   "buttonText": "Скачать обновление",
-  "align": "center"
+  "align": "left"
 }
